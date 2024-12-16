@@ -11,7 +11,8 @@ Each mode is different because the number of balls and items change. In Normal M
 The game also has a high score system. It saves the highest score for each mode, so players can try to beat the top score.
 
 -UML-
-![UML Diagram](UMLDiagram.png)
+![UMLDiagram](https://github.com/user-attachments/assets/506713ab-a5ad-48c2-b39e-8b411c255aaa)
+
 
 
 -How to install/run -
